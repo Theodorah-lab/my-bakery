@@ -14,11 +14,10 @@ const App = () => (
       <Navigation />
      
       <Routes>
-      
         <Route path="/" element={<HomePage />} />
         <Route path="/about" element={<AboutPage />} />
         <Route path="/menu" element={<MenuPage />} />
-      </Routes>
+      </Routes>             
       <br /> {/* This is a line */}
       <hr /> {/* This is a horizontal line */}
       <h4 className="home-footer">Copyright © 2023 Theodora</h4>
