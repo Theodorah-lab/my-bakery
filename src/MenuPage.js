@@ -7,16 +7,14 @@ const MenuPage = () => {
       <ul className="menu-container">
         <li>
         
-          
-          <img src="http://www.nicdarkthemes.com/themes/bakery/wp/demo/bakery/wp-content/uploads/sites/2/2019/09/project-3-700x1000.jpg" alt="cake" /> 
-          <h4>Cookie</h4>
-         
+         <img src="https://preview.colorlib.com/theme/bakery2/img/book-table.jpg" alt="Cheese cake" />
+          <h4>Lemon Cake</h4>
           
         </li>
         <li>
           
           
-          <img src="http://www.nicdarkthemes.com/themes/bakery/wp/demo/bakery/wp-content/uploads/sites/2/2019/09/project-4-700x1000.jpg" alt="pastry" />
+         <img src="https://preview.colorlib.com/theme/bakery2/img/book-table.jpg" alt="Cheese cake" />
           <h4>Lemon Cake</h4>
          
           
@@ -24,7 +22,7 @@ const MenuPage = () => {
         <li>
           
           
-          <img src="http://www.nicdarkthemes.com/themes/bakery/wp/demo/bakery/wp-content/uploads/sites/2/2019/09/project-2-700x1000.jpg" alt="Bread" />
+          <img src="https://preview.colorlib.com/theme/bakery2/img/book-table.jpg" alt="Cheese cake" />
           <h4>Biscuit</h4>
           
         </li>
