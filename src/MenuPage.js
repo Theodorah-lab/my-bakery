@@ -7,23 +7,23 @@ const MenuPage = () => {
       <ul className="menu-container">
         <li>
         
-         <img src="https://preview.colorlib.com/theme/bakery2/img/book-table.jpg" alt="Cheese cake" />
-          <h4>Lemon Cake</h4>
+         <img src="https://www.glutenfreealchemist.com/wp-content/uploads/2021/02/gluten-free-breakfast-pastries-tray-1024x932.jpg" alt="rolls" />
+          <h4>Sweet Rolls</h4>
           
         </li>
         <li>
           
           
-         <img src="https://preview.colorlib.com/theme/bakery2/img/book-table.jpg" alt="Cheese cake" />
-          <h4>Lemon Cake</h4>
+         <img src="https://www.brighteyedbaker.com/wp-content/uploads/2015/02/peanut-butter-cup-stuffed-chocolate-chip-cookies-4542-2.jpg" alt="Cookie" />
+          <h4>Chocolate chip cookie</h4>
          
           
         </li>
         <li>
           
           
-          <img src="https://preview.colorlib.com/theme/bakery2/img/book-table.jpg" alt="Cheese cake" />
-          <h4>Biscuit</h4>
+          <img src="https://www.discoverwalks.com/blog/wp-content/uploads/2021/11/screen-shot-2021-11-19-at-12.00.05-pm.png" alt="Croissant" />
+          <h4>Croissant</h4>
           
         </li>
         <li>
@@ -35,15 +35,15 @@ const MenuPage = () => {
         </li>
         <li>
           
-          <img src="https://preview.colorlib.com/theme/bakery2/img/book-table.jpg" alt="Cheese cake" />
+          <img src="https://preview.colorlib.com/theme/bakery2/img/book-table.jpg" alt="Fruit cake" />
           <h4>fruit cake </h4> 
           
           
         </li>
         <li>
           
-          <img src="https://d2wvwvig0d1mx7.cloudfront.net/data/org/22429/media/img/cache/768x0/2309929_768x0.jpg" alt="Pastry " /> 
-          <h4>Cream Puffs</h4>
+          <img src="https://all.accor.com/magazine/imagerie/image-2-three-eclairs-lined-up-f186.jpg" alt="Pastry " /> 
+          <h4>eclairs</h4>
           
           
         </li>
