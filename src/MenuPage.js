@@ -35,7 +35,7 @@ const MenuPage = () => {
         </li>
         <li>
           
-          <img src="https://preview.colorlib.com/theme/bakery2/img/book-table.jpg" alt="Fruit cake" />
+          <img src="https://preview.colorlib.com/theme/bakery2/img/book-table.jpg" alt="Cheese cake" />
           <h4>fruit cake </h4> 
           
           
@@ -43,7 +43,7 @@ const MenuPage = () => {
         <li>
           
           <img src="https://all.accor.com/magazine/imagerie/image-2-three-eclairs-lined-up-f186.jpg" alt="Pastry " /> 
-          <h4>eclairs</h4>
+          <h4>eclairrs</h4>
           
           
         </li>
