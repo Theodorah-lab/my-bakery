@@ -43,7 +43,7 @@ const MenuPage = () => {
         <li>
           
           <img src="https://all.accor.com/magazine/imagerie/image-2-three-eclairs-lined-up-f186.jpg" alt="Pastry " /> 
-          <h4>eclairrs</h4>
+          <h4>eclairs</h4>
           
           
         </li>

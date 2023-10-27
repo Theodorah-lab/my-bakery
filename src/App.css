@@ -142,3 +142,29 @@
   text-align: center;
   color: #333;
 }
+
+@media screen and (max-width: 768px) {
+  body {
+    background-size: cover;
+    width: 380vw;
+    height: 100vh;
+  }
+  .navbar { 
+      display: flex;
+      justify-content: flex-end;
+      width: 100%;
+    }
+    .navbar a {
+      display: inline-block;
+      margin-bottom: 0;
+
+      text-align: right;
+      font-size:25px;
+    }
+  
+  
+.home-footer {
+  text-align: center;
+  color: #333;
+}
+}
